@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(SBExercise3561)
+project(SBExercise356)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(SBExercise3561 main.cpp)
+add_executable(SBExercise356 main.cpp)
